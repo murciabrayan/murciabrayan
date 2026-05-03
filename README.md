@@ -21,10 +21,9 @@ Desarrollo soluciones end-to-end aplicando buenas prácticas, arquitectura limpi
 
 Portafolio: https://portafolio-brayan.web.app/
 
-GitHub: https://github.com/murciabrayan
 
 ### Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=murciabrayan&theme=tokyonight&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ### Lenguajes mas usados
-https://github-readme-stats.vercel.app/api/top-langs/?username=murciabrayan
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murciabrayan)]
