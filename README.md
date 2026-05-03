@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/murciabrayan/murciabrayan/master/Banner.png" />
-</p>
+
 
 ### Brayan Murcia
 
