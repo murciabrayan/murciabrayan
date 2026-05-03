@@ -13,11 +13,11 @@ Desarrollador enfocado en la creación de aplicaciones web completas, integrando
 React · JavaScript · TypeScript · Django · PostgreSQL · APIs REST · JWT · Git
 
 ### Proyectos
-Plataforma académica para gestión de usuarios, cursos y calificaciones
-Sistema de inventario con control de productos, movimientos y reportes
-Sistema POS para restaurante con gestión de pedidos en tiempo real
-Catálogo web con personalización de productos
-Enfoque
+Plataforma académica para gestión de usuarios, cursos y calificaciones;
+Sistema de inventario con control de productos, movimientos y reportes;
+Sistema POS para restaurante con gestión de pedidos en tiempo real;
+Catálogo web con personalización de productos;
+
 
 Desarrollo soluciones end-to-end aplicando buenas prácticas, arquitectura limpia y metodologías ágiles para construir software mantenible y escalable.
 
