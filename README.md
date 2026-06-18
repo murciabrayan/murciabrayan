@@ -4,7 +4,7 @@
 
 ### Brayan Murcia
 
-### Desarrollador Web Full-Stack Junior
+### Desarrollador Web Full-Stack
 
 Desarrollador enfocado en la creación de aplicaciones web completas, integrando frontend y backend con tecnologías modernas. Experiencia construyendo soluciones funcionales que optimizan procesos y gestionan información de forma eficiente.
 
